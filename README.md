@@ -22,7 +22,7 @@
 
 ## Summary
 
-This repository contains all research artifacts and data analysis for the **Olympic of Statistics (OLS) 2025** competition held by Universitas Hasanuddin. Our research theme:
+This repository contains all research artifacts and data analysis for the **Olympic of Statistics (OLS) 2025** competition held by Universitas Negeri Makassar. Our research theme:
 
 > **"Lost Potential: A Multidimensional Analysis of the NEET (*Not in Education, Employment, or Training*) Phenomenon Among Indonesian Youth Aged 15–24"**
 
